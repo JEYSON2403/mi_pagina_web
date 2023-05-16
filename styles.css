@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .column1 {
+    width: 100%;
+    background-color: rgb(9, 151, 104);
+    width: 250px;
+    height: 900px;
+    
+  }
+  .column2 {
+    width: 100%;
+    background-color: rgb(223, 142, 142);
+    width:700px;
+    height: 900px;
+  }
+  .column3 {
+    width: 100%;
+    background-color: rgb(253, 93, 0);
+    width: 400px;
+    height: 900px;
+  }
+  
